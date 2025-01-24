@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh-07-2003
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning aAML in python
+- 🌱 I’m currently learning AML in python
 - 💞️ I’m looking to collaborate on Open Sources
 - 📫 How to reach me pailadinesh248@gmail.com
 <!---
